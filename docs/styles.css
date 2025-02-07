@@ -62,7 +62,7 @@ body {
   }
   
   .text-above {
-    font-size: 20px;
+    font-size: 30px;
     top: -120px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Cambia la lista de fuentes según tus preferencias */
 
@@ -71,7 +71,7 @@ body {
   .text-below {
     bottom: -60px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 10px;
 
   }
   
